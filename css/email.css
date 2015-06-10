@@ -7,7 +7,8 @@
 
 a {
     text-decoration: none;
-    color: rgb(142, 142, 214);
+/*    color: rgb(142, 142, 214); */
+    color: rgb(139, 207, 232);
 }
 a:hover,
 a:focus {
@@ -26,7 +27,8 @@ a:focus {
     bottom: 0;
     width: 25%;
     margin-left: -25%;
-    background: rgb(24, 33, 61);
+/*    background: rgb(24, 33, 61); */
+    background: rgb(77, 131, 158);
     color: #fff;
 }
 
@@ -44,7 +46,8 @@ a:focus {
 }
 .brand-tagline {
     font-weight: 300;
-    color: rgb(142, 142, 214);
+/*    color: rgb(142, 142, 214); */
+    color: rgb(139, 207, 232);
 }
 
 .nav-list {
