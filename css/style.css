@@ -4,7 +4,7 @@ div {
 
 #header {
 	z-index: 1;
-	position: fixed;
+/*	position: fixed;*/
 	width: 99%;
 	margin-top: 0px;
 	height: 60px;
@@ -58,7 +58,7 @@ a:hover {
 	margin-top: 105px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color: #8FD3F0;
 	margin-bottom: 10px;
 }
 
@@ -68,14 +68,14 @@ a:hover {
 	margin-top: 105px;
 	width: 88%;
 	height: 550px;
-	background-color: #F4EBC3;
+	background-color: #8FD3F0;
 	margin-bottom: 10px;
 }
 
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #668284;
+	background-color: #8FD3F0;
 	clear: both;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
